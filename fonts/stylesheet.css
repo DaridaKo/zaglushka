@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Bahnschrift Static';
+    src: url('BahnschriftStaticBold.eot');
+    src: url('BahnschriftStaticBold.eot?#iefix') format('embedded-opentype'),
+        url('BahnschriftStaticBold.woff2') format('woff2'),
+        url('BahnschriftStaticBold.woff') format('woff'),
+        url('BahnschriftStaticBold.svg#BahnschriftStaticBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
